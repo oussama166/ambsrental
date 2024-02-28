@@ -8,7 +8,7 @@ function References() {
       id="references"
     >
       <div className="flex flex-col">
-        <h1 className="text-3xl font-bold text-black">Nos Reference</h1>
+        <h1 className="text-3xl font-bold text-black">Nos Références</h1>
         <span className={"w-[100px] h-1 bg-secondaryAmbsi"}></span>
       </div>
       <div className="w-full h-1/2 flex flex-row items-center justify-center gap-10">
